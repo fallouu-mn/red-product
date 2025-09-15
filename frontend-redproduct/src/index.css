@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Ajoute si besoin une image de fond ou pattern pour ressembler à la maquette */
+body {
+@apply bg-gray-100;
+}
